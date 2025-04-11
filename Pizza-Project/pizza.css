@@ -1,0 +1,85 @@
+body{
+    font-family: cursive;
+    background-image: url(image/chalkboard1.jpg);
+    margin-left: 500px;
+    }
+
+
+main{
+    color:#077118;
+    font-size:75px;
+    font-weight: bold;
+    position: center; 
+    margin-left:200px;
+    }
+
+
+
+#pizzasize1{ 
+    color: rgb(161, 8, 8);
+    font-size:50px; 
+    font-weight:bolder;
+    }
+
+        .size{
+        color: rgb(255, 255, 255);
+            }
+
+
+#toppings1{
+    color: rgb(161, 8, 8);
+    font-size:50px; 
+    font-weight:bolder;
+    }
+
+        .toppings{
+            color: rgb(255, 255, 255);
+            }
+
+#crust1{
+    color: rgb(161, 8, 8);
+    font-size:50px; 
+    font-weight:bolder;
+    }
+
+        .crust{
+            color: rgb(255, 255, 255);
+            }     
+
+#specialty1{
+    color: rgb(161, 8, 8);
+    font-size:50px; 
+    font-weight:bolder;
+    }
+
+        .specialty{
+            color: rgb(255, 255, 255);
+            }  
+
+
+#sides1{
+    color: rgb(161, 8, 8);
+    font-size:50px; 
+    font-weight:bolder;
+    }
+
+        .sides{
+            color: rgb(255, 255, 255);
+            }  
+
+
+#pizza5{width:600px; position:relative; margin-left:85px;}            
+#Antipasto1{width: 300px}
+#tiramisu1{width: 300px}   
+
+#legend1{color: rgb(161, 8, 8);
+    font-size:50px; 
+    font-weight:bolder;}
+
+.form1{color: antiquewhite}
+
+footer{color: antiquewhite;}
+
+
+
+
